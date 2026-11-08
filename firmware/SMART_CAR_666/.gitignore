@@ -1,0 +1,6 @@
+/build/
+/mx.scratch/
+/MDK-ARM/SMART CAR 666/
+/MDK-ARM/*.lst
+*.uvoptx
+*.uvguix.*
